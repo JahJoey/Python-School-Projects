@@ -1,11 +1,3 @@
-## 
-# @file linked_list.py
-#
-# Template for linked_list class.
-#
-# @author Michael John Decker, Ph.D.
-#
-####################################
 #
 # Joseph Hein
 # CS3060 T/TH 13:00
